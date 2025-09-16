@@ -5,11 +5,11 @@
 
 🛠️ Tech Stack & Tools
 
-Languages & Frameworks Java | Selenium | TestNG | Cucumber | Rest Assured
+**Languages & Frameworks** Java | Selenium | TestNG | Cucumber | Rest Assured
 
-Tools & Platforms Postman | JIRA | Jenkins | GitHub | CI/CD
+**Tools & Platforms Postman** | JIRA | Jenkins | GitHub | CI/CD
 
-Testing Expertise ✅ Automation Testing ✅ API Testing ✅ Database Testing ✅ Functional & Regression Testing
+**Testing Expertise** ✅ Automation Testing ✅ API Testing ✅ Database Testing ✅ Functional & Regression Testing
 
 🌟 Notable Projects
 
