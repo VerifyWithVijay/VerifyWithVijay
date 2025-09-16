@@ -1,5 +1,3 @@
-## Hi there 👋
-
 👋 Hi, I’m Vijay
 
 🚀 Full Stack QA | Senior SDET | 18+ years of experience 
