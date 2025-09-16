@@ -11,13 +11,13 @@
 
 **Testing Expertise** ✅ Automation Testing ✅ API Testing ✅ Database Testing ✅ Functional & Regression Testing
 
-🌟 Notable Projects
+🌟** Notable Projects**
 
-🔹 Enterprise Automation Framework Built a scalable Selenium-TestNG-Cucumber framework integrated with Jenkins and GitHub Actions. Reduced regression testing time by 40% and improved CI/CD reliability.
+🔹 **Enterprise Automation Framework** Built a scalable Selenium-TestNG-Cucumber framework integrated with Jenkins and GitHub Actions. Reduced regression testing time by 40% and improved CI/CD reliability.
 
 🔹 API Automation Suite Developed robust API test suite using Rest Assured and Postman collections. Enabled teams to catch integration issues earlier, boosting release confidence.
 
-✨ Personal Bio
+✨ **Personal Bio**
 
 💡 “Passionate about building robust automation frameworks and driving quality across every stage of SDLC.”
 
