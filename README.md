@@ -1,7 +1,7 @@
 👋 Hi, I’m Vijay
 
 🚀 Full Stack QA | Senior SDET | 18+ years of experience 
-💻 Passionate about building robust automation frameworks, ensuring quality, and driving continuous improvement in testing.
+ 💻 Passionate about building robust automation frameworks, ensuring quality, and driving continuous improvement in testing.
 
 🛠️ Tech Stack & Tools
 
